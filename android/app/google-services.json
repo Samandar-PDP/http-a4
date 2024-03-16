@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "54312047923",
+    "firebase_url": "https://instaqlone-default-rtdb.firebaseio.com",
+    "project_id": "instaqlone",
+    "storage_bucket": "instaqlone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54312047923:android:54707f507bfe76d68dda46",
+        "android_client_info": {
+          "package_name": "com.example.country"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpvlCJFox0Wz_kOvZZ7va9SbLK1ObSSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54312047923:android:3c01f426baf91a5f8dda46",
+        "android_client_info": {
+          "package_name": "com.sdk.insta_qlone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpvlCJFox0Wz_kOvZZ7va9SbLK1ObSSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
